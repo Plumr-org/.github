@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Plumr-org/sdks/main/.github/plumr-mark.svg" alt="Plumr" width="84" />
+  <img src="https://raw.githubusercontent.com/Plumr-org/.github/main/profile/plumr-mark.svg" alt="Plumr" width="84" />
 </p>
 
 <h1 align="center">Plumr</h1>
